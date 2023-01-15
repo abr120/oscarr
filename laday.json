@@ -1,0 +1,67 @@
+﻿[
+ {
+     "title":" حلقات اوسكار- كامل جميع الحلقات ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/oscarr/master/01.jpg",
+    "arguments":[
+      "PLdyRAPo-LQ9IEm4pZ3YGG29rOAKSYcfR0","playlist","AIzaSyDTD8bcyqqhmyN6sgmWLsOSBgv0BRpjNvk"
+    ]
+  },
+{
+     "title":"  Oscar's Oasis ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/oscarr/master/02.jpg",
+    "arguments":[
+      "PLWXBHQPV9mB4j4He1f-LEV1_2ZmPCENda","playlist","AIzaSyDTD8bcyqqhmyN6sgmWLsOSBgv0BRpjNvk"
+    ]
+  },
+{
+     "title":" Oscar's Oasis Full Episodes ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/oscarr/master/03.jpg",
+    "arguments":[
+      "PLwtWtbus8LLmj75BrWwlfvOKMwrS8gH6k","playlist","AIzaSyDTD8bcyqqhmyN6sgmWLsOSBgv0BRpjNvk"
+    ]
+  },
+{
+     "title":"Skunk ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/oscarr/master/04.jpg",
+    "arguments":[
+      "PLwtWtbus8LLlHVYiHS9z-y_aazv_Lwurv","playlist","AIzaSyDTD8bcyqqhmyN6sgmWLsOSBgv0BRpjNvk"
+    ]
+  },
+{
+     "title":" Oscar's Oasis Full Episodes English  ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/oscarr/master/05.jpg",
+    "arguments":[
+      "PLGHFrLgpw-C3OW5YvYdqv0HlTS9q2xChI","playlist","AIzaSyDTD8bcyqqhmyN6sgmWLsOSBgv0BRpjNvk"
+    ]
+  },
+{
+     "title":" Oscar's Oasis Clips  ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/oscarr/master/06.jpg",
+    "arguments":[
+      "PLwtWtbus8LLlrE2Qo0HcCaiYnMcqnqH0z","playlist","AIzaSyDTD8bcyqqhmyN6sgmWLsOSBgv0BRpjNvk"
+    ]
+  },
+{
+     "title":"   Oscar's Oasis Chicken  ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/oscarr/master/07.jpg",
+    "arguments":[
+      "PL_mdMEHn0oarE-kSyjdNXZOEiyGp9ijVb","playlist","AIzaSyDTD8bcyqqhmyN6sgmWLsOSBgv0BRpjNvk"
+    ]
+  }
+,
+{
+     "title":"    Oscar's Oasis  ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/oscarr/master/08.jpg",
+    "arguments":[
+      "PLVgGR8BqcW0TmsQyVg1isnaC7vBlT1uPk","playlist","AIzaSyDTD8bcyqqhmyN6sgmWLsOSBgv0BRpjNvk"
+    ]
+  } 
+]
